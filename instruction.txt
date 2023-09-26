@@ -1,0 +1,7 @@
+In this txt file there are instructions of what needs to be added. 
+
+
+
+1 : Adding A cat agent which searches for mice 
+2 : creating movement for the cat agent so that it can move to the mices' locations
+3: Create the environment which will be the Cat's home that it must protect from said mice. 
